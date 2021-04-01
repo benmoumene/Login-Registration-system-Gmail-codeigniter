@@ -10,7 +10,7 @@ It is a Login and Registration system configured with SMTP. Unique tokens are al
 
 4. Please take note that Port 3308 is being used within the config folder.
 
-5. Base url for this project = $config['base_url'] = 'http://localhost/wpu-login/';
+5. Base url for this project : $config['base_url'] = 'http://localhost/wpu-login/';
 
 ## Screenshot 
 
