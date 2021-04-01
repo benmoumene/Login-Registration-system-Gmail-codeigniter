@@ -17,21 +17,21 @@ It is a Login and Registration system configured with SMTP. Unique tokens are al
 -----
 
 <div align="center">
-  <h2>Registration Page</h2>
+  <h2>Registration</h2>
 <img src="images/homepage.png" alt="image">
 </div>
 
 -----
 
 <div align="center">
-  <h2>Login Page</h2>
+  <h2>Email Verification</h2>
 <img src="images/login.PNG" alt="image">
 </div>
 
 -----
 
 <div align="center">
-  <h2>Email Verification</h2>
+  <h2>CRUD Submenu Management</h2>
 <img src="images/user.PNG" alt="image">
 </div>
 
@@ -45,7 +45,7 @@ It is a Login and Registration system configured with SMTP. Unique tokens are al
 -----
 
 <div align="center">
-  <h2>Add New SubMenu</h2>
+  <h2>Set New Password</h2>
 <img src="images/cart.PNG" alt="image">
 </div>
 
