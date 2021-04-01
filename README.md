@@ -4,7 +4,7 @@ It is a Login and Registration system configured with SMTP. Unique tokens are al
 ## Getting Started
 1. Install  [WAMP](https://www.wampserver.com/en/download-wampserver-64bits/) for MySQL server.
 
-2. Import  [wpu-login.sql](/PHP-CodeIgniter-Login/wpu-login/sql/wpu-login.sql) to phpMyAdmin. 
+2. Import  [wpu-login.sql](/PHP-CodeIgniter-Login/wpu-login/sql/wpu_login.sql) to phpMyAdmin. 
 
 3. Run the program using local host in default browser.
 
