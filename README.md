@@ -1,5 +1,5 @@
 # PHP-CodeIgniter-Login
-It is a Login and Registration system configured with SMTP. Unique tokens are also being initialized for the forgot password feature. Submenu Management is included. 
+It is a Login and Registration system configured with SMTP. Unique tokens are also being initialized for the forgot password feature. Submenu Management is included by using BootStrap templates. 
 
 ## Getting Started
 1. Install  [WAMP](https://www.wampserver.com/en/download-wampserver-64bits/) for MySQL server.
