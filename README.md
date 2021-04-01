@@ -18,7 +18,7 @@ It is a Login and Registration system configured with SMTP. Unique tokens are al
 
 <div align="center">
   <h2>Registration</h2>
-<img src="images/register.gif" alt="gif">
+<img src="wpu-login/images/register.gif" alt="gif">
 </div>
 
 -----
