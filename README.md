@@ -12,7 +12,7 @@ It is a Login and Registration system configured with SMTP. Unique tokens are al
 
 5. Base url for this project : $config['base_url'] = 'http://localhost/wpu-login/';
 
-## Screenshot 
+## Screenshot & Demos
 
 -----
 
