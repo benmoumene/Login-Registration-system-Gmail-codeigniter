@@ -1,44 +1,5 @@
 # PHP-CodeIgniter-Login
-It is a Login and Registration system configured with SMTP. Unique tokens are also being initialized for forgot password feature. <br>
-Note: Only the home page is fully responsive.
-
-* Customer
-  <br> •	Login or create an account
-•	Verify account through registered email
-•	Retrieve forgotten password through registered email
-•	View a short introductory of the bakery shop.
-•	View cakes and milk tea that are available in the menu
-•	Add items into cart
-•	Remove items from cart
-•	Checkout and make payment
-• View Delivery Status
-•	View Order History
-•	Logout from account
- 
-* Staff 
-  <br> •	Login into account
-• View profile
-•	View orders placed by customers 
-• Update customer's order status
-•	Remove sold out items
-•	Modify menu price
-• Update daily sales
-• Update chatbot system
-•	Logout from account
-
-* Owner
-  <br> •	Login into account
-•	Add new items into menu
-• View customer profile
-• Update own profile
-•	View all orders placed by customers
-• View daily sales in bar chart form
-• View profit in line chart form
-•	Logout from account
-
-
-
-
+It is a Login and Registration system configured with SMTP. Unique tokens are also being initialized for the forgot password feature. Submenu Management is included. 
 
 ## Getting Started
 1. Install  [WAMP](https://www.wampserver.com/en/download-wampserver-64bits/) for MySQL server.
