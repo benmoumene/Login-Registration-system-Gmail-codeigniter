@@ -25,35 +25,28 @@ It is a Login and Registration system configured with SMTP. Unique tokens are al
 
 <div align="center">
   <h2>Email Verification</h2>
-<img src="images/login.PNG" alt="image">
+<img src="wpu-login/images/verification.gif" alt="gif">
 </div>
 
 -----
 
 <div align="center">
   <h2>CRUD Submenu Management</h2>
-<img src="images/user.PNG" alt="image">
+<img src="wpu-login/images/submenu.PNG" alt="image">
 </div>
 
 -----
 
 <div align="center">
   <h2>Forgot Password</h2>
-<img src="images/menu.PNG" alt="image">
+<img src="wpu-login/images/forgotpassword.gif" alt="gif">
 </div>
 
 -----
 
 <div align="center">
   <h2>Set New Password</h2>
-<img src="images/cart.PNG" alt="image">
-</div>
-
------
-
-<div align="center">
-  <h2>Modify User Access</h2>
-<img src="images/scheckout.PNG" alt="image">
+<img src="wpu-login/images/newpassword.gif" alt="gif">
 </div>
 
 -----
