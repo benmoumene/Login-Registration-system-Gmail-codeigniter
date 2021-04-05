@@ -1,4 +1,4 @@
-# PHP-CodeIgniter-Login
+# CodeIgniter Login & Registration System
 It is a Login and Registration system configured with SMTP. Unique tokens are also being initialized for the forgot password feature. Submenu Management is included by using BootStrap templates. MVC framework has also been applied (Model, View, Controller).
 
 ## Getting Started
